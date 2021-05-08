@@ -58,10 +58,5 @@ void motorAcceleration(){
      analogWrite(motorRD, i);  
     delay(delayTime); 
     
-    
   }
-  
-  
-       
-  
 }
