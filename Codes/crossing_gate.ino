@@ -22,7 +22,7 @@ void loop() {
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
-    
+  	
   duration = pulseIn(echoPin, HIGH);
   distance = duration * 0.017; 
   force= analogRead(fs);
@@ -37,9 +37,11 @@ void loop() {
   
   if(distance<200 && force>600) {
     servo.write(90);
+    digitalWrite(8,HIGH);
   }
   else {
     servo.write(0);
+    digitalWrite(13,HIGH);
   }
   delay(1000);
   lcd.clear();
