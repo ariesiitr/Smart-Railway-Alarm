@@ -13,5 +13,5 @@
     -> WITH DC MOTORS
         [Click Here](https://www.tinkercad.com/things/dk4dNZ6qp1a-copy-of-railway-crossing-gate/editel?sharecode=2RUqcrC_1ws3ujT47JQYpZdXlce93rizjlVNPxzdq5Q)
 
-  * CROSSING GATE
-  [Click Here](https://www.tinkercad.com/things/iJ13B09MiSJ-railway-crossing-gate/editel?sharecode=IW93ejgUIyX56a_GlYIW6pRhso476HoGl-ZILoiN1p8)
+* CROSSING GATE
+[Click Here](https://www.tinkercad.com/things/iJ13B09MiSJ-railway-crossing-gate/editel?sharecode=IW93ejgUIyX56a_GlYIW6pRhso476HoGl-ZILoiN1p8)
