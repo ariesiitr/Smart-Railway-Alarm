@@ -65,7 +65,9 @@ combine working environment and circuits.
 Since the project uses many hardware components so it is difficult to represent the model in online mode,
 but we are trying to find simulations for proper representation of working of our model.
 
-CIRCUITS
+CIRCUITS: Present in CIRCUIT SNAPS folder.
+
+CODES: Codes for different sensor circuits given inside the folder.
 
 Images present is Spec Doc, links to tinkercad circuits provided in the repo. 
 
