@@ -1,13 +1,13 @@
 RAILWAY ALARM SYSTEM
 Key Features -
-1. Railway crossing barrier
-2. Object detection on track
-3. Fire alarm system in train
+1. Railway crossing barrier.
+2. Object detection on the railway track.
+3. A Fire alarm system in train.
 
 ROADMAP
 
 1. First, we will design the sensor system for each of the above key features.
- This includes a gas alarm system placed inside the train, an ultrasonic system for railway crossing barrier
+This includes a gas alarm system placed inside the train and an ultrasonic system used for railway crossing barrier
 and object detection on track.
 The railway crossing gate consists of ultrasonic sensors
 a) The sensors detect the train and close the barrier.
@@ -17,7 +17,8 @@ junction.
 Object detection on track is done using an ultrasonic sensor (HC-SR04)
 a) The sensor detects an object on track and sends a signal to the system.
 b) In response to the signal, the train stops.
-The gas alarm system detects smoke and alert passengers on three levelsa) Level 1- smoke level is indicated by LED. (SAFE)
+The gas alarm system detects smoke and alerts passengers on three levels
+a) Level 1- smoke level is indicated by LED. (SAFE)
 b) Level 2- smoke level indicated by a buzzer. (ALERT)
 c) Level 3- At this level, the train stops for evacuation. (DANGER LEVEL)
 2. After that, we will do mathematical analysis regarding the distance at which the ultrasonic sensor will detect
